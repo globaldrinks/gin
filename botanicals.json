@@ -18,7 +18,6 @@
      "children": [
       {"name": "BetweennessCentrality", "size": 3534},
       {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
       {"name": "ShortestPaths", "size": 5914},
       {"name": "SpanningTree", "size": 3416}
      ]
@@ -88,9 +87,6 @@
     {"name": "DragForce", "size": 1082},
     {"name": "GravityForce", "size": 1336},
     {"name": "IForce", "size": 319},
-    {"name": "NBodyForce", "size": 10498},
-    {"name": "Particle", "size": 2822},
-    {"name": "Simulation", "size": 9983},
     {"name": "Spring", "size": 2213},
     {"name": "SpringForce", "size": 1681}
    ]
@@ -100,8 +96,6 @@
    "children": [
     {"name": "AggregateExpression", "size": 1616},
     {"name": "And", "size": 1027},
-    {"name": "Arithmetic", "size": 3891},
-    {"name": "IsA", "size": 2039},
     {"name": "Literal", "size": 1214},
     {"name": "Match", "size": 3748},
     {"name": "Maximum", "size": 843},
@@ -118,9 +112,6 @@
      ]
     },
     {"name": "Minimum", "size": 843},
-    {"name": "Not", "size": 1554},
-    {"name": "Or", "size": 970},
-    {"name": "Variable", "size": 1124},
     {"name": "Variance", "size": 1876},
     {"name": "Xor", "size": 1101}
    ]
@@ -130,7 +121,6 @@
    "children": [
     {"name": "IScaleMap", "size": 2105},
     {"name": "LinearScale", "size": 1316},
-    {"name": "LogScale", "size": 3151},
     {"name": "Scale", "size": 4268},
     {"name": "ScaleType", "size": 1821},
     {"name": "TimeScale", "size": 5833}
@@ -173,15 +163,6 @@
   {
    "name": "Fifty Pounds",
    "children": [
-    {
-     "name": "axis",
-     "children": [
-      {"name": "Axes", "size": 1302},
-      {"name": "Axis", "size": 2493},
-      {"name": "AxisLabel", "size": 636},
-      {"name": "CartesianAxes", "size": 6703}
-     ]
-    },
     {
      "name": "Gin XX",
      "children": [
@@ -259,8 +240,7 @@
       {"name": "OperatorSwitch", "size": 2581},
       {"name": "SortOperator", "size": 2023}
      ]
-    },
-    {"name": "Visualization", "size": 1640}
+    }
    ]
   }
  ]
