@@ -165,18 +165,7 @@
     },
     {"name": "Maths", "size": 17705},
     {"name": "Orientation", "size": 1486},
-    {
-     "name": "palette",
-     "children": [
-      {"name": "ColorPalette", "size": 6367},
-      {"name": "Palette", "size": 1229},
-      {"name": "ShapePalette", "size": 2059},
-      {"name": "SizePalette", "size": 2291}
-     ]
-    },
     {"name": "Property", "size": 5559},
-    {"name": "Shapes", "size": 19118},
-    {"name": "Sort", "size": 6887},
     {"name": "Stats", "size": 6557},
     {"name": "Strings", "size": 22026}
    ]
@@ -189,7 +178,6 @@
      "children": [
       {"name": "Axes", "size": 1302},
       {"name": "Axis", "size": 2493},
-      {"name": "AxisGridLine", "size": 652},
       {"name": "AxisLabel", "size": 636},
       {"name": "CartesianAxes", "size": 6703}
      ]
