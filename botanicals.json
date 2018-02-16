@@ -217,23 +217,6 @@
      ]
     },
     {
-     "name": "events",
-     "children": [
-      {"name": "DataEvent", "size": 2313},
-      {"name": "SelectionEvent", "size": 1880},
-      {"name": "TooltipEvent", "size": 1701},
-      {"name": "VisualizationEvent", "size": 1117}
-     ]
-    },
-    {
-     "name": "legend",
-     "children": [
-      {"name": "Legend", "size": 20859},
-      {"name": "LegendItem", "size": 4614},
-      {"name": "LegendRange", "size": 10530}
-     ]
-    },
-    {
      "name": "operator",
      "children": [
       {
@@ -289,7 +272,7 @@
       {"name": "SortOperator", "size": 2023}
      ]
     },
-    {"name": "Visualization", "size": 16540}
+    {"name": "Visualization", "size": 1640}
    ]
   }
  ]
