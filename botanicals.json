@@ -58,16 +58,11 @@
      "name": "converters",
      "children": [
       {"name": "Converters", "size": 721},
-      {"name": "DelimitedTextConverter", "size": 4294},
-      {"name": "GraphMLConverter", "size": 9800},
       {"name": "IDataConverter", "size": 1314},
       {"name": "JSONConverter", "size": 2220}
      ]
     },
     {"name": "DataField", "size": 1759},
-    {"name": "DataSchema", "size": 2165},
-    {"name": "DataSet", "size": 586},
-    {"name": "DataSource", "size": 3331},
     {"name": "DataTable", "size": 772},
     {"name": "DataUtil", "size": 3322}
    ]
@@ -78,7 +73,7 @@
     {"name": "DirtySprite", "size": 8833},
     {"name": "LineSprite", "size": 1732},
     {"name": "RectSprite", "size": 3623},
-    {"name": "TextSprite", "size": 10066}
+    {"name": "TextSprite", "size": 1066}
    ]
   },
   {
@@ -187,20 +182,20 @@
    ]
   },
   {
-   "name": "vis",
+   "name": "Fifty Pounds",
    "children": [
     {
      "name": "axis",
      "children": [
       {"name": "Axes", "size": 1302},
-      {"name": "Axis", "size": 24593},
+      {"name": "Axis", "size": 2493},
       {"name": "AxisGridLine", "size": 652},
       {"name": "AxisLabel", "size": 636},
       {"name": "CartesianAxes", "size": 6703}
      ]
     },
     {
-     "name": "Fifty Pounds",
+     "name": "Gin XX",
      "children": [
       {"name": "Data", "size": 20544},
       {"name": "DataList", "size": 19788},
