@@ -88,15 +88,6 @@
     {"name": "AggregateExpression", "size": 1616},
     {"name": "And", "size": 1027},
     {"name": "Maximum", "size": 843},
-    {
-     "name": "methods",
-     "children": [
-      {"name": "add", "size": 593},
-      {"name": "and", "size": 330},
-      {"name": "or", "size": 264}
-     ]
-    },
-    {"name": "Minimum", "size": 843},
     {"name": "Variance", "size": 1876},
     {"name": "Xor", "size": 1101}
    ]
