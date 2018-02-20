@@ -151,7 +151,6 @@
         {"name": "FisheyeDistortion", "size": 3444}
        ]
       },
-      {"name": "IOperator", "size": 1286},
       {
        "name": "label",
        "children": [
