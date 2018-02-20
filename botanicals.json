@@ -147,29 +147,25 @@
        "name": "distortion",
        "children": [
         {"name": "BifocalDistortion", "size": 4461},
-        {"name": "Distortion", "size": 6314},
         {"name": "FisheyeDistortion", "size": 3444}
        ]
       },
       {
        "name": "label",
        "children": [
-        {"name": "Labeler", "size": 9956},
-        {"name": "RadialLabeler", "size": 3899},
-        {"name": "StackedAreaLabeler", "size": 3202}
+        {"name": "Labeler", "size": 956},
+        {"name": "StackedAreaLabeler", "size": 322}
        ]
       },
       {
        "name": "layout",
        "children": [
-        {"name": "AxisLayout", "size": 6725},
-        {"name": "BundledEdgeRouter", "size": 3727},
-        {"name": "StackedAreaLayout", "size": 9121},
-        {"name": "TreeMapLayout", "size": 9191}
+        {"name": "AxisLayout", "size": 1725},
+        {"name": "BundledEdgeRouter", "size": 727},
+        {"name": "TreeMapLayout", "size": 191}
        ]
       },
       {"name": "OperatorList", "size": 5248},
-      {"name": "OperatorSwitch", "size": 2581},
       {"name": "SortOperator", "size": 2023}
      ]
     }
