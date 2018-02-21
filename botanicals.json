@@ -75,17 +75,22 @@
    ]
   },
   {
-   "name": "display",
+   "name": "Ophir",
    "children": [
-    {"name": "DirtySprite", "size": 8833},
-    {"name": "LineSprite", "size": 1732},
-    {"name": "TextSprite", "size": 1066}
+    {"name": "spicy Cubeb berries from Indonesia", "size": 1},
+    {"name": "Black Pepper from India", "size": 2},
+    {"name": "Coriander from Morocco", "size": 3},
+    {"name": "Others", "size": 4}
+
    ]
   },
   {
-   "name": "flex",
+   "name": "Bloom",
    "children": [
-    {"name": "FlareVis", "size": 4116}
+    {"name": "Chamomile", "size": 1},
+    {"name": "Honeysuckle", "size": 2},
+    {"name": "Pomelo", "size": 3},
+    {"name": "Others", "size": 4}
    ]
   },
   {
