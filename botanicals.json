@@ -94,14 +94,6 @@
    ]
   },
   {
-   "name": "physics",
-   "children": [
-    {"name": "DragForce", "size": 1082},
-    {"name": "IForce", "size": 319},
-    {"name": "SpringForce", "size": 1681}
-   ]
-  },
-  {
    "name": "Martin Millers",
    "children": [
     {"name": "AggregateExpression", "size": 1616},
@@ -109,32 +101,6 @@
     {"name": "Maximum", "size": 843},
     {"name": "Variance", "size": 1876},
     {"name": "Xor", "size": 1101}
-   ]
-  },
-  {
-   "name": "scale",
-   "children": [
-    {"name": "IScaleMap", "size": 2105},
-    {"name": "LinearScale", "size": 1316},
-    {"name": "TimeScale", "size": 5833}
-   ]
-  },
-  {
-   "name": "util",
-   "children": [
-    {"name": "Arrays", "size": 8258},
-    {"name": "IValueProxy", "size": 874},
-    {
-     "name": "math",
-     "children": [
-      {"name": "DenseMatrix", "size": 3165},
-      {"name": "IMatrix", "size": 2815},
-      {"name": "SparseMatrix", "size": 3366}
-     ]
-    },
-    {"name": "Maths", "size": 1705},
-    {"name": "Orientation", "size": 1486},
-    {"name": "Strings", "size": 22026}
    ]
   },
   {
