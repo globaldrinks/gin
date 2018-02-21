@@ -5,24 +5,38 @@
    "name": "Tanqueray",
    "children": [
     {
-     "name": "cluster",
+     "name": "Regular",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "Juniper", "size": 1},
+      {"name": "Coriander", "size": 2},
+      {"name": "Angelica's Root", "size": 3},
+      {"name": "Liquorice", "size": 4},
+      {"name": "Others", "size": 5}
      ]
     },
     {
-     "name": "graph",
+     "name": "Ten",
      "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "SpanningTree", "size": 3416}
+      {"name": "Fresh white grapefruit", "size": 1},
+      {"name": "Fresh lime", "size": 2},
+      {"name": "Fresh orange", "size": 3},
+      {"name": "Camomile flowers", "size": 4},
+      {"name": "Others", "size": 5}
      ]
     },
     {
-     "name": "optimization",
+     "name": "Rangpur",
      "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
+      {"name": "Rangpur limes", "size": 1},
+      {"name": "Ginger", "size": 2},
+      {"name": "Bay leaves", "size": 3},
+      {"name": "Others", "size": 4}
+     ]
+    },
+    {
+     "name": "Malacca",
+     "children": [
+      {"name": "Grapefruit", "size": 1}
      ]
     }
    ]
